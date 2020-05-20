@@ -5,6 +5,5 @@ SwiftyPSCustomQueriesPlugin is used, along with [SwiftyPSCustomQueries](https://
 
 You can use the plugin as is, or you can modify and add to it as you see fit.
 
-_SwiftyPSCustomQueriesPlugin is not endorsed, sponsored, or affilitated with PowerSchool in any way.
+_SwiftyPSCustomQueriesPlugin is not endorsed, sponsored, or affilitated with PowerSchool in any way._
 
-***
